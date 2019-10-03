@@ -33,5 +33,5 @@ switch (dessert) {
 let yep = -8;
 
 switch (true) {
-    case(yep)
+    case(yep):
 }
